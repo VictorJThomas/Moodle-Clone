@@ -1,0 +1,6 @@
+@Moodle_Clone.Api_HostAddress = http://localhost:5064
+
+GET {{Moodle_Clone.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

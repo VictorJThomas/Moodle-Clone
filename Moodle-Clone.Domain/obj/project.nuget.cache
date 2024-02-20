@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "2Wc0F6TnRf9SwrmgbR6XXtafw90GdSx2d7KaHwYzJ/GRkjAqVXifusgfjOeZx/eTWnAqTb19g60g8zNEf/uz5w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\victo\\source\\repos\\Moodle-Clone\\Moodle-Clone.Domain\\Moodle-Clone.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\victo\\.nuget\\packages\\enums.net\\4.0.2\\enums.net.4.0.2.nupkg.sha512",
+    "C:\\Users\\victo\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\victo\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\victo\\.nuget\\packages\\microsoft.extensions.options\\8.0.2\\microsoft.extensions.options.8.0.2.nupkg.sha512",
+    "C:\\Users\\victo\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
